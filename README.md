@@ -2,5 +2,4 @@
 Replace and modernize legacy VPN architectures with a cloud-native Zscaler Zero Trust solution
 
 demo video link
-
-https://docs.google.com/document/d/1A48nNKGK5OV02fUiXMPCqOyOcpt_xF-K/edit?usp=sharing&ouid=112912990082825939637&rtpof=true&sd=true
+https://drive.google.com/file/d/1MQ02aQScKf9YmcXeJNXpf_hS-CI82phw/view?usp=sharing
